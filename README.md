@@ -16,3 +16,7 @@ O Projeto 100 é uma plataforma de saúde  que conecta pessoas a médicos de for
 
 Mas não paramos por aí. Nós Sabemos que a saúde não é apenas sobre consultas médicas. É sobre comunidade e apoio. Desenvolvemos um modelo de receita híbrido. Além das consultas, oferecemos produtos como camisetas temáticas de saúde. As vendas desses produtos e as doações recebidas nos permitem oferecer serviços a pessoas que, de outra forma, não poderiam pagar.
 
+###########################################################################################
+
+Com a API java e o Código front que nós desenvolvemos, Conseguimos Criar um aplicativo integrado com as disciplinas solicitadas assim
+conseguindo fazer o cliente criar conta agendar consulta e nós fazermos o CRUD neste projeto.
