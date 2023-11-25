@@ -1,4 +1,4 @@
-Projeto Web criado para a Global Solutions utilizando o tema da saúde, criado por:
+Projeto criado para a Global Solutions utilizando o tema da saúde, criado por:
 - Matheus Colossal Araujo 99572 (Java, Responsive)
 - Enzo Oliveira 551356 (IA, Responsive)
 - Macirander 551416 (BD, Responsive) 
