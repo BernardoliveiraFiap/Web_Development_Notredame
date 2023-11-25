@@ -29,3 +29,10 @@ Abra o projeto no VS Code e acesse o terminal.
 Execute o comando: npm install para instalar todas as dependências necessárias.
 Após a instalação, execute o comando: npm run dev.
 Um link será gerado e, ao clicar, você terá acesso ao site diretamente no seu navegador.
+
+
+##################################################
+
+admin.fiap@gmail.com
+
+9999
