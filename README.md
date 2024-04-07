@@ -5,6 +5,7 @@ Projeto criado para a Global Solutions utilizando o tema da saúde, criado por:
 - Joao Vitor 550381 (Python, Responsive)
 - Denise Nascimento 550511 (SDTX, Responsive)
 
+
 Título: Projeto 100 
 
 Olá, sou Enzo Oliveira, fundador do Projeto 100. Estou aqui para compartilhar nossa emocionante jornada na criação de uma plataforma única que está transformando a maneira como as pessoas acessam cuidados de saúde.
